@@ -1,3 +1,5 @@
+> Política de privacidade do **RotaLucro**: [rotalucro.md](rotalucro.md)
+
 # Política de Privacidade — Gerenciador de Arquivos Pro
 
 _Última atualização: 10 de outubro de 2026_
