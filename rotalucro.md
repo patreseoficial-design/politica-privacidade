@@ -8,7 +8,7 @@ O Pega ou Passa é um aplicativo para motoristas de aplicativo calcularem o lucr
 
 Com a sua autorização, o Pega ou Passa usa a API de Acessibilidade do Android (AccessibilityService) para ler o texto das telas de oferta de corrida dos aplicativos **Uber Driver, 99 Motorista, inDrive, DiDi Motorista, iFood para Entregadores, Rappi Entregador, 99Food Entregador e Lalamove Driver**, e somente deles.
 
-- **O que é lido:** o valor, a distância e o tempo da corrida oferecida.
+- **O que é lido:** o valor, a distância e o tempo da corrida oferecida. Quando o aplicativo de corrida não entrega o texto da oferta, o Pega ou Passa tira uma imagem da tela (Android 11 ou mais novo), somente com o aplicativo de corrida aberto, lê os números no próprio celular e descarta a imagem na hora. Nenhuma imagem é guardada ou enviada.
 - **Para quê:** calcular o lucro estimado e mostrar o semáforo (verde, amarelo ou vermelho) num balão por cima do aplicativo de corrida.
 - **O que não é feito:** o Pega ou Passa não aceita, não recusa, não clica e não digita nada em outros aplicativos. Não lê telas de outros aplicativos.
 - **Para onde vai:** os dados são usados na hora, no próprio celular. Não são enviados, vendidos nem compartilhados.
