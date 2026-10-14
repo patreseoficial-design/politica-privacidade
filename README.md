@@ -1,4 +1,6 @@
 > Política de privacidade do **Pega ou Passa**: [rotalucro.md](rotalucro.md)
+>
+> Política de privacidade do **Rota Club – Roteirizador de Entregas**: [rota-club.md](rota-club.md)
 
 # Política de Privacidade — Gerenciador de Arquivos Pro
 
