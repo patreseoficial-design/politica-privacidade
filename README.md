@@ -1,6 +1,22 @@
 > Política de privacidade do **Pega ou Passa**: [rotalucro.md](rotalucro.md)
 >
 > Política de privacidade do **Rota Club – Roteirizador de Entregas**: [rota-club.md](rota-club.md)
+>
+> Política de privacidade do **Gravador de Voz**: [gravador-de-voz.md](gravador-de-voz.md)
+>
+> Política de privacidade da **Lista de Tarefas**: [lista-de-tarefas.md](lista-de-tarefas.md)
+>
+> Política de privacidade do **Diário de Humor**: [diario-de-humor.md](diario-de-humor.md)
+>
+> Política de privacidade do **Leitor de Documentos**: [leitor-de-documentos.md](leitor-de-documentos.md)
+>
+> Política de privacidade do **Leitor de Livros**: [leitor-de-livros.md](leitor-de-livros.md)
+>
+> Política de privacidade do **Editor de Áudio**: [editor-de-audio.md](editor-de-audio.md)
+>
+> Política de privacidade do **Sincronizador WebDAV**: [sincronizador-webdav.md](sincronizador-webdav.md)
+>
+> Política de privacidade do **Office: Word, Excel e PowerPoint**: [office.md](office.md)
 
 # Política de Privacidade — Gerenciador de Arquivos Pro
 
