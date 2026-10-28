@@ -17,6 +17,8 @@
 > Política de privacidade do **Sincronizador WebDAV**: [sincronizador-webdav.md](sincronizador-webdav.md)
 >
 > Política de privacidade do **Office: Word, Excel e PowerPoint**: [office.md](office.md)
+>
+> Política de privacidade do **Damas Clube**: [damas-clube.md](damas-clube.md)
 
 # Política de Privacidade — Gerenciador de Arquivos Pro
 
