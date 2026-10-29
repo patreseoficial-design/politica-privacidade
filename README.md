@@ -21,6 +21,8 @@
 > Política de privacidade do **Damas Clube**: [damas-clube.md](damas-clube.md)
 >
 > Política de privacidade do **Sudoku Clube**: [sudoku-clube.md](sudoku-clube.md)
+>
+> Política de privacidade do **Capi Tile: Volta ao Mundo**: [capi-tile.md](capi-tile.md)
 
 # Política de Privacidade — Gerenciador de Arquivos Pro
 
