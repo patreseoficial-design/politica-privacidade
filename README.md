@@ -19,6 +19,8 @@
 > Política de privacidade do **Office: Word, Excel e PowerPoint**: [office.md](office.md)
 >
 > Política de privacidade do **Damas Clube**: [damas-clube.md](damas-clube.md)
+>
+> Política de privacidade do **Sudoku Clube**: [sudoku-clube.md](sudoku-clube.md)
 
 # Política de Privacidade — Gerenciador de Arquivos Pro
 
