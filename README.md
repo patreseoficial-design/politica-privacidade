@@ -23,6 +23,8 @@
 > Política de privacidade do **Sudoku Clube**: [sudoku-clube.md](sudoku-clube.md)
 >
 > Política de privacidade do **Capi Tile: Volta ao Mundo**: [capi-tile.md](capi-tile.md)
+>
+> Política de privacidade do **Capi Candy Pop Mania 3D**: [capi-candy-pop.md](capi-candy-pop.md)
 
 # Política de Privacidade — Gerenciador de Arquivos Pro
 
