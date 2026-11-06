@@ -27,7 +27,8 @@ O **Rota Club** ("app") é um roteirizador de entregas para Android. Esta polít
 | OpenFreeMap / Esri (mapas) | Área do mapa que você está vendo | Mostrar o mapa e o satélite |
 | Photon (komoot) e Geocoder do Android | Texto do endereço buscado, sua localização aproximada | Achar o endereço no mapa |
 | OSRM (servidores FOSSGIS) | Coordenadas das paradas | Calcular distâncias, ordem e trajeto |
-| Google AdMob | ID de publicidade, informações do aparelho, interações com anúncios | Mostrar e medir anúncios (só no plano grátis) |
+| Google AdMob | ID de publicidade, informações do aparelho, localização aproximada (pelo endereço de internet), interações com anúncios, dados de desempenho e falhas | Mostrar e medir anúncios e evitar fraude (no teste grátis e no plano grátis; o Premium não tem anúncios) |
+| Google ML Kit (leitura da etiqueta) | Informações do aparelho e de desempenho do recurso. A foto da etiqueta é lida no próprio celular e não é enviada | Melhorar e medir o funcionamento da leitura |
 | Google Play | Compra da assinatura | Cobrar e confirmar o Premium |
 
 Esses serviços têm suas próprias políticas de privacidade. Não vendemos dados pessoais.
