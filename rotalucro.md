@@ -1,6 +1,6 @@
 # Política de privacidade — Pega ou Passa
 
-Última atualização: 23 de novembro de 2026
+Última atualização: 24 de novembro de 2026
 
 O Pega ou Passa é um aplicativo para motoristas de aplicativo calcularem o lucro das corridas. Ele não tem cadastro nem login. Os dados das corridas, das ofertas lidas, do veículo e do SOS **não são enviados para a internet**. As únicas exceções são as métricas de uso, os anúncios e a assinatura, descritos abaixo.
 
@@ -39,7 +39,9 @@ Para melhorar o app, o Pega ou Passa envia ao desenvolvedor, de forma **anônima
 - um resumo diário com **contagens**: quantas ofertas foram analisadas, quantas ficaram verdes, amarelas ou vermelhas, de quais aplicativos e quantos minutos o app de corrida ficou aberto;
 - erros que fecharam o app e falhas do leitor, com a descrição técnica do erro.
 
-**Não são enviados:** valores das corridas, endereços, localização, textos ou imagens das telas, contatos ou dados do SOS. Os dados ficam numa planilha do desenvolvedor (Google), não são vendidos nem compartilhados, e servem só para corrigir falhas e entender o uso do app. Para pedir a exclusão, escreva para o contato abaixo informando o código que aparece em Mais → Diagnóstico.
+Essas mesmas informações também são enviadas ao **Google Firebase**: o **Firebase Analytics** (estatísticas de uso, com o identificador do app no aparelho, informações do aparelho e país e região aproximados) e o **Firebase Crashlytics** (registro técnico do erro quando o app trava, com informações do aparelho e do sistema). O Google guarda esses dados pelo prazo definido no Firebase (até 14 meses para as estatísticas) e trata-os conforme a política dele: https://firebase.google.com/support/privacy.
+
+**Não são enviados:** valores das corridas, endereços, localização, textos ou imagens das telas, contatos ou dados do SOS. Os dados ficam numa planilha do desenvolvedor (Google) e no Firebase, não são vendidos, e servem só para corrigir falhas e entender o uso do app. Para pedir a exclusão, escreva para o contato abaixo informando o código que aparece em Mais → Diagnóstico.
 
 Se você tocar em "Enviar relatório" (Mais → Diagnóstico), o texto das últimas telas que o app não entendeu, que pode conter endereços e valores de ofertas, é enviado pelo aplicativo que você escolher (WhatsApp, e-mail), só quando você toca no botão.
 
